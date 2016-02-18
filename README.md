@@ -4,9 +4,9 @@ A python API relying on the BLED112 to talk to the Mooshimeter
 
 
 ## Setup / Dependencies:
- - Python 2.X
- - pyserial
- 
+- Python 2.X
+- pyserial
+  - Run this from commandline:
    ```
    python -m pip install pyserial
    ```

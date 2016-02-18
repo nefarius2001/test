@@ -27,3 +27,5 @@ The script does the following:
 - Connect to the Mooshimeter with strongest signal
 - Configure the meter to read Voltage in 60V range and Current in 10A range
 - Begin streaming data and printing the results to the console
+  - aser1
+  - aser1

@@ -14,8 +14,8 @@ A python API relying on the BLED112 to talk to the Mooshimeter
 - bglib
   1) Get the **bglib.py** file from **https://github.com/jrowberg/bglib/tree/master/Python**
   2) Copy **bglib.py** to EITHER
-       * this folder
-       * in your Python Lib directory (usually C:/PythonXX/Lib)
+    - this folder
+    - in your Python Lib directory (usually C:/PythonXX/Lib)
 
 
 

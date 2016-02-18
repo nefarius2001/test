@@ -11,7 +11,7 @@ A python API relying on the BLED112 to talk to the Mooshimeter
    python -m pip install pyserial
    ```
     
-- bglib
+- bglib [bglib.py](https://raw.githubusercontent.com/jrowberg/bglib/master/Python/bglib.py) 
   1. Get the **bglib.py** file from **https://github.com/jrowberg/bglib/tree/master/Python**
   2. Copy **bglib.py** to EITHER
     - this folder
